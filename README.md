@@ -1,5 +1,12 @@
 # Restaurant_SQL_project
-My SQL Project 
+My SQL Project (Used MySQL Workbench)
+
+Insights
+* Sales data covers 5 months (Jan–May 2023) with 5,000 unique orders and 12,000+ items ordered.
+* Italian category has highest avg price at $16.75.
+* Hamburger from American category has the highest sales volume while Chicken Taco from Mexican category has least ordered.
+
+**SQL Queries** 
 
 USE restaurant_db;
 
